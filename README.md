@@ -50,13 +50,11 @@ function bonk(e) {
 ## Features
 
 * The `time` variable in the peep function can be adjusted to make the game more difficult.
-
 * The `background-size` css variable in the .mole class can be reduced (eg from 60% to 40% to make the game more difficult.
 
 ## Status & To-Do List
 
 * Status: Working code.
-
 * To-Do: Nothing.
 
 ## Inspiration
