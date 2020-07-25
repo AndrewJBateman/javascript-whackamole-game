@@ -1,37 +1,40 @@
-# Javascript Whackamole Game
+# :zap: Javascript Whackamole Game
 
 Creates famous whackamole game using javascript. Final tutorial 30 of Wes Bos Javascript30 Youtube series.
 
 **\* Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
-1. [General info](#general-info)
-2. [Screenshots](#screenshots)
-3. [Technologies](#technologies)
-4. [Setup](#setup)
-5. [Features](#features)
-6. [Status](#status)
-7. [Inspiration](#inspiration)
-8. [Contact](#contact)
+* [:zap: Javascript Whackamole Game](#zap-javascript-whackamole-game)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## General info
+## :books: General info
 
 * Uses event listeners, timout functions etc. to keep score of the number of times a mole is clicked on.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/random-hole.png).
 
-## Technologies
+## :signal_strength: Technologies
 
-[Javascript v1.9 ECMA-262 ECMAScript 2018](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+[Javascript v1.9 ECMA-262 ECMAScript 2020](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
-## Setup
+## :floppy_disk: Setup
 
 * Open `index.html` in browser.
 
-## Code Examples
+## :computer: Code Examples
 
 * function to hit mole and remove up class if hit so mole stays hidden.
 
@@ -47,20 +50,20 @@ function bonk(e) {
 
 ```
 
-## Features
+## :cool: Features
 
 * The `time` variable in the peep function can be adjusted to make the game more difficult.
 * The `background-size` css variable in the .mole class can be reduced (eg from 60% to 40% to make the game more difficult.
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status: Working code.
 * To-Do: Nothing.
 
-## Inspiration
+## :clap: Inspiration
 
 * [Wes Bos Youtube Javascript30 tutorial 30](https://www.youtube.com/watch?v=toNFfAaWghU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=30)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
