@@ -1,8 +1,12 @@
 # :zap: Javascript Whackamole Game
 
 Creates famous whackamole game using javascript. Final tutorial 30 of Wes Bos Javascript30 Youtube series.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**\* Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-whackamole-game?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-whackamole-game?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-whackamole-game?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-whackamole-game?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -57,13 +61,17 @@ function bonk(e) {
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working code.
+* Status: Working.
 * To-Do: Nothing.
 
 ## :clap: Inspiration
 
 * [Wes Bos Youtube Javascript30 tutorial 30](https://www.youtube.com/watch?v=toNFfAaWghU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=30)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
